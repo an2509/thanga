@@ -1,0 +1,20 @@
+.table{
+    width: 80%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.tr1{
+    background-color: deepskyblue;
+    text-align: left;
+    height: 40px;
+    color: white;
+}
+.tr1>td{
+    padding-left: 10px;
+}
+.tr2{
+    background-color:rgb(249, 249, 249);
+    height: 25px;
+}
+.tr2>td{
+    padding-left: 10px;
+}
